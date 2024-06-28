@@ -38,6 +38,8 @@ These parameters are available:
 | - | - | - |
 | OS_HOST | opensearch | The hostname or IP address where OpenSearch is running.  |
 | OS_PORT | 9200 | The port where OpenSearch is reachable. |
+| OS_USER | | The user name for authentication to the OpenSearch instance. **This feature is not tested yet!** |
+| OS_PASSWORD | | The password for the OpenSearch user. **This feature is not tested yet!** |
 | ARKIME_ADMIN_PASSWORD | admin | This is the password for the Arkime admin user that is needed for the first login. It can be changed afterwards. |
 | ARKIME_INTERFACE | eth0 | Network interface where `capture` process listens. **This feature is not tested yet!** |
 | ARKIME_HOSTNAME | localhost | With this hostname Arkime authenticates at OpenSearch. So if you change this you'll lose your OpenSearch configuration. |
