@@ -1,3 +1,10 @@
+> [!WARNING]
+> I'm archiving this repo, because
+> 
+> - Arkime provides now official Docker images: https://arkime.com/docker
+> - Currently I'm not using Arkime anymore (maybe I reactivate this repo if I'm using Arkime again)
+
+
 # [Arkime](https://github.com/arkime/arkime) Docker image/container
 
 This repository contains the files to build a Docker image of the Arkime software:
